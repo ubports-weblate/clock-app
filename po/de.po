@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: ubuntu-clock-app\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-08-26 14:04+0000\n"
-"PO-Revision-Date: 2018-11-25 00:02+0000\n"
-"Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
+"PO-Revision-Date: 2019-01-21 21:35+0000\n"
+"Last-Translator: Michael Binder <binder.michael64@gmail.com>\n"
 "Language-Team: German <https://translate.ubports.com/projects/ubports/"
 "clock-app/de/>\n"
 "Language: de\n"
@@ -40,12 +40,12 @@ msgstr "Löschen"
 
 #: ../app/alarm/AlarmPage.qml:45 ../app/components/AlarmBottomEdge.qml:38
 msgid "Alarms"
-msgstr "Wecker"
+msgstr "Weckzeiten"
 
 #: ../app/alarm/AlarmPage.qml:60 ../app/alarm/EditAlarmPage.qml:43
 #: ../app/alarm/EditAlarmPage.qml:189
 msgid "Alarm"
-msgstr "Wecker"
+msgstr "Weckzeit"
 
 #: ../app/alarm/AlarmPage.qml:73 ../app/worldclock/WorldCityList.qml:83
 msgid "Back"
@@ -61,11 +61,11 @@ msgstr "Alles auswählen"
 
 #: ../app/alarm/AlarmPage.qml:172
 msgid "No saved alarms"
-msgstr "Keine gespeicherten Wecker"
+msgstr "Keine gespeicherten Weckzeiten"
 
 #: ../app/alarm/AlarmPage.qml:173
 msgid "Tap the + icon to add an alarm"
-msgstr "Das +-Symbol antippen, um einen neuen Wecker hinzuzufügen"
+msgstr "Das +-Symbol antippen, um eine neue Weckzeit hinzuzufügen"
 
 #: ../app/alarm/AlarmRepeat.qml:40 ../app/alarm/EditAlarmPage.qml:287
 msgid "Repeat"
@@ -166,15 +166,15 @@ msgstr "in %1 Minuten"
 
 #: ../app/alarm/EditAlarmPage.qml:37
 msgid "New alarm"
-msgstr "Neuer Wecker"
+msgstr "Neuer Weckzeit"
 
 #: ../app/alarm/EditAlarmPage.qml:37
 msgid "Edit alarm"
-msgstr "Wecker bearbeiten"
+msgstr "Weckzeit bearbeiten"
 
 #: ../app/alarm/EditAlarmPage.qml:348
 msgid "Delete alarm"
-msgstr "Wecker löschen"
+msgstr "Weckzeit löschen"
 
 #. TRANSLATORS: This is the page title. Please keep the translation length to 3 words if possible
 #: ../app/alarm/SoundPeerPicker.qml:27
@@ -187,7 +187,7 @@ msgstr "Standort wird abgerufen …"
 
 #: ../app/components/Information.qml:8
 msgid "App Information"
-msgstr "Anwendungsinformation"
+msgstr "Programminformation"
 
 #: ../app/components/Information.qml:17
 msgid "Get the source"
