@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: ubuntu-clock-app\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-08-26 14:04+0000\n"
-"PO-Revision-Date: 2018-12-07 08:36+0000\n"
-"Last-Translator: xqqy <xqqy189@hotmail.com>\n"
+"PO-Revision-Date: 2019-01-21 21:35+0000\n"
+"Last-Translator: louies0623 <louies0623@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://translate.ubports.com/projects/"
 "ubports/clock-app/zh_Hans/>\n"
 "Language: zh_CN\n"
@@ -25,9 +25,8 @@ msgid "Settings"
 msgstr "设置"
 
 #: ../app/MainPage.qml:166
-#, fuzzy
 msgid "About"
-msgstr "吉布提"
+msgstr "关于"
 
 #: ../app/alarm/AlarmLabel.qml:37 ../app/alarm/AlarmLabel.qml:82
 #: ../app/alarm/EditAlarmPage.qml:303
@@ -107,7 +106,7 @@ msgstr "更改时间与日期"
 
 #: ../app/alarm/AlarmSettingsPage.qml:234
 msgid "Theme"
-msgstr ""
+msgstr "主题"
 
 #: ../app/alarm/AlarmSettingsPage.qml:234
 msgid "Theme (system theme on App start)"
@@ -264,7 +263,7 @@ msgstr "清除"
 
 #: ../app/timer/TimerListDelegate.qml:49
 msgid "Active"
-msgstr ""
+msgstr "活动"
 
 #: ../app/timer/TimerListView.qml:56
 #, fuzzy
