@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: ubuntu-clock-app\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-08-26 14:04+0000\n"
-"PO-Revision-Date: 2018-11-10 21:07+0000\n"
-"Last-Translator: Sander <sander.k1007@kpnmail.nl>\n"
+"PO-Revision-Date: 2019-02-11 20:28+0000\n"
+"Last-Translator: Heimen Stoffels <vistausss@outlook.com>\n"
 "Language-Team: Dutch <https://translate.ubports.com/projects/ubports/"
 "clock-app/nl/>\n"
 "Language: nl\n"
@@ -40,16 +40,16 @@ msgstr "Verwijderen"
 
 #: ../app/alarm/AlarmPage.qml:45 ../app/components/AlarmBottomEdge.qml:38
 msgid "Alarms"
-msgstr "Herinneringen"
+msgstr "Alarmen"
 
 #: ../app/alarm/AlarmPage.qml:60 ../app/alarm/EditAlarmPage.qml:43
 #: ../app/alarm/EditAlarmPage.qml:189
 msgid "Alarm"
-msgstr "Herinnering"
+msgstr "Alarm"
 
 #: ../app/alarm/AlarmPage.qml:73 ../app/worldclock/WorldCityList.qml:83
 msgid "Back"
-msgstr "Vorige"
+msgstr "Terug"
 
 #: ../app/alarm/AlarmPage.qml:84
 msgid "Select None"
@@ -61,11 +61,11 @@ msgstr "Alles selecteren"
 
 #: ../app/alarm/AlarmPage.qml:172
 msgid "No saved alarms"
-msgstr "Geen opgeslagen herinneringen"
+msgstr "Geen opgeslagen alarmen"
 
 #: ../app/alarm/AlarmPage.qml:173
 msgid "Tap the + icon to add an alarm"
-msgstr "Tik op het + pictogram om een herinnering toe te voegen"
+msgstr "Druk op het \"+\"-pictogram om een alarm toe te voegen"
 
 #: ../app/alarm/AlarmRepeat.qml:40 ../app/alarm/EditAlarmPage.qml:287
 msgid "Repeat"
@@ -87,7 +87,7 @@ msgstr[1] "%1 minuten"
 
 #: ../app/alarm/AlarmSettingsPage.qml:99
 msgid "Alarm volume"
-msgstr "Herinneringsvolume"
+msgstr "Alarmvolume"
 
 #: ../app/alarm/AlarmSettingsPage.qml:121
 msgid "Alarm stops after"
@@ -99,11 +99,11 @@ msgstr "Sluimeren gedurende"
 
 #: ../app/alarm/AlarmSettingsPage.qml:183
 msgid "Vibration"
-msgstr "trillen"
+msgstr "Trillen"
 
 #: ../app/alarm/AlarmSettingsPage.qml:209
 msgid "Change time and date"
-msgstr "Datum en tijd wijzigen"
+msgstr "Datum en tijd aanpassen"
 
 #: ../app/alarm/AlarmSettingsPage.qml:234
 msgid "Theme"
@@ -115,7 +115,7 @@ msgstr "Thema (systeemthema als de app start)"
 
 #: ../app/alarm/AlarmSettingsPage.qml:235
 msgid "Theme (will apply after App restart)"
-msgstr "Thema (zal toegepast worden na een herstart van de app)"
+msgstr "Thema (wordt toegepast na het herstarten van de app)"
 
 #: ../app/alarm/AlarmSound.qml:60 ../app/alarm/EditAlarmPage.qml:324
 msgid "Sound"
@@ -143,7 +143,7 @@ msgstr "Werkdagen"
 
 #: ../app/alarm/AlarmUtils.qml:41
 msgid "Weekends"
-msgstr "Weekeinden"
+msgstr "Weekends"
 
 #: ../app/alarm/AlarmUtils.qml:45
 msgid "Daily"
@@ -166,24 +166,24 @@ msgstr "over %1m"
 
 #: ../app/alarm/EditAlarmPage.qml:37
 msgid "New alarm"
-msgstr "Nieuwe herinnering"
+msgstr "Nieuw alarm"
 
 #: ../app/alarm/EditAlarmPage.qml:37
 msgid "Edit alarm"
-msgstr "Herinnering bewerken"
+msgstr "Alarm bewerken"
 
 #: ../app/alarm/EditAlarmPage.qml:348
 msgid "Delete alarm"
-msgstr "Herinnering verwijderen"
+msgstr "Alarm verwijderen"
 
 #. TRANSLATORS: This is the page title. Please keep the translation length to 3 words if possible
 #: ../app/alarm/SoundPeerPicker.qml:27
 msgid "Add sound from"
-msgstr "Geluid toevoegen van"
+msgstr "Geluid toevoegen uit"
 
 #: ../app/clock/ClockPage.qml:259
 msgid "Retrieving location..."
-msgstr "Locatie ophalen…"
+msgstr "Bezig met ophalen van locatie..."
 
 #: ../app/components/Information.qml:8
 msgid "App Information"
@@ -191,15 +191,15 @@ msgstr "App-informatie"
 
 #: ../app/components/Information.qml:17
 msgid "Get the source"
-msgstr "Broncode"
+msgstr "Broncode verkrijgen"
 
 #: ../app/components/Information.qml:18
 msgid "Report issues"
-msgstr "Meld problemen"
+msgstr "Problemen melden"
 
 #: ../app/components/Information.qml:19
 msgid "Help translate"
-msgstr "Help vertalen"
+msgstr "Helpen met vertalen"
 
 #: ../app/components/Information.qml:48
 msgid "Clock App"
@@ -246,11 +246,11 @@ msgstr "Totale tijd"
 
 #: ../app/stopwatch/StopwatchPage.qml:83 ../app/timer/TimerPage.qml:260
 msgid "Stop"
-msgstr "Stop"
+msgstr "Stoppen"
 
 #: ../app/stopwatch/StopwatchPage.qml:83 ../app/timer/TimerPage.qml:260
 msgid "Start"
-msgstr "Start"
+msgstr "Starten"
 
 #: ../app/stopwatch/StopwatchPage.qml:83
 msgid "Resume"
@@ -273,12 +273,12 @@ msgid ""
 "Please set a time before starting the timer\n"
 "By dragging the clock hands above."
 msgstr ""
-"Stel een tijd in voordat u de timer start\n"
-"Door de wijzers van de klok naar boven te slepen."
+"Stel een tijd in voordat je de timer start\n"
+"door de wijzers van de klok naar boven te slepen."
 
 #: ../app/timer/TimerPage.qml:194
 msgid "Enter timer name"
-msgstr "Voer de naam van de timer in"
+msgstr "Voer timernaam in"
 
 #: ../app/worldclock/AddWorldCityButton.qml:32
 msgid "Add"
@@ -327,7 +327,7 @@ msgstr "Zelfde tijd"
 
 #: ../app/worldclock/WorldCityList.qml:56
 msgid "Select a city"
-msgstr "Selecteer een plaats"
+msgstr "Kies een plaats"
 
 #: ../app/worldclock/WorldCityList.qml:112
 msgid "Search..."
@@ -335,7 +335,7 @@ msgstr "Zoeken…"
 
 #: ../app/worldclock/WorldCityList.qml:216
 msgid "Searching for a city"
-msgstr "Plaats wordt opgezocht"
+msgstr "Bezig met zoeken naar plaatsnaam..."
 
 #: ../app/worldclock/WorldCityList.qml:221
 msgid "No City Found"
@@ -343,11 +343,11 @@ msgstr "Geen plaats gevonden"
 
 #: ../app/worldclock/WorldCityList.qml:227
 msgid "Unable to connect."
-msgstr "Verbinding maken lukt niet."
+msgstr "Kan niet verbinden."
 
 #: ../app/worldclock/WorldCityList.qml:228
 msgid "Please check your network connection and try again"
-msgstr "Controleer uw netwerkverbinding en probeer het opnnieuw"
+msgstr "Controleer je internetverbinding en probeer het opnnieuw"
 
 #: ../backend/modules/WorldClock/statictimezonemodel.cpp:48
 msgid "Abidjan"
@@ -523,7 +523,7 @@ msgstr "Antananarivo"
 
 #: ../backend/modules/WorldClock/statictimezonemodel.cpp:62
 msgid "Madagascar"
-msgstr "Madagascar"
+msgstr "Madagaskar"
 
 #: ../backend/modules/WorldClock/statictimezonemodel.cpp:63
 msgid "Aqtau"
@@ -783,7 +783,7 @@ msgstr "Argentinië"
 
 #: ../backend/modules/WorldClock/statictimezonemodel.cpp:102
 msgid "Cairo"
-msgstr "Cairo"
+msgstr "Caïro"
 
 #: ../backend/modules/WorldClock/statictimezonemodel.cpp:102
 msgid "Egypt"
@@ -1176,7 +1176,7 @@ msgstr "Ho Chi Minh-stad"
 
 #: ../backend/modules/WorldClock/statictimezonemodel.cpp:170
 msgid "Hong Kong"
-msgstr "Hong Kong"
+msgstr "Hongkong"
 
 #: ../backend/modules/WorldClock/statictimezonemodel.cpp:171
 msgid "Honolulu"
@@ -1206,11 +1206,11 @@ msgstr "Pakistan"
 
 #: ../backend/modules/WorldClock/statictimezonemodel.cpp:177
 msgid "Isle of Man"
-msgstr "Isle of Man"
+msgstr "Man (eiland)"
 
 #: ../backend/modules/WorldClock/statictimezonemodel.cpp:178
 msgid "Istanbul"
-msgstr "Istanbul"
+msgstr "Istanboel"
 
 #: ../backend/modules/WorldClock/statictimezonemodel.cpp:180
 msgid "Jacksonville"
@@ -1226,7 +1226,7 @@ msgstr "Indonesië"
 
 #: ../backend/modules/WorldClock/statictimezonemodel.cpp:182
 msgid "Jerusalem"
-msgstr "Jerusalem"
+msgstr "Jeruzalem"
 
 #: ../backend/modules/WorldClock/statictimezonemodel.cpp:183
 msgid "Johannesburg"
@@ -1330,7 +1330,7 @@ msgstr "Maleisië"
 
 #: ../backend/modules/WorldClock/statictimezonemodel.cpp:199
 msgid "Kuwait City"
-msgstr "Koeweit Stad"
+msgstr "Koeweit"
 
 #: ../backend/modules/WorldClock/statictimezonemodel.cpp:199
 msgid "Kuwait"
@@ -1474,7 +1474,7 @@ msgstr "Metlakatla"
 
 #: ../backend/modules/WorldClock/statictimezonemodel.cpp:228
 msgid "Mexico City"
-msgstr "Mexico Stad"
+msgstr "Mexico-Stad"
 
 #: ../backend/modules/WorldClock/statictimezonemodel.cpp:229
 msgid "Miami"
@@ -1583,7 +1583,7 @@ msgstr "Nassau"
 
 #: ../backend/modules/WorldClock/statictimezonemodel.cpp:248
 msgid "Bahamas"
-msgstr "Bahamas"
+msgstr "Bahama's"
 
 #: ../backend/modules/WorldClock/statictimezonemodel.cpp:249
 msgid "New Orleans"
@@ -2100,12 +2100,11 @@ msgid ""
 "A sophisticated clock app that provides world clock, alarm , stopwatch and "
 "timer functionality."
 msgstr ""
-"Een uitgekiende klok-app die wereldklok-, alarm- en stopwatch "
-"functionaliteit biedt."
+"Een uitgekiende klok-app met wereldklok-, alarm- en stopwatchfunctionaliteit."
 
 #: ubuntu-clock-app.desktop.in.in.h:3
 msgid "time;alarm;alert;clock;world;stopwatch;"
-msgstr "tijd;alarm;alertering;klok;wereld;stopwatch;"
+msgstr "tijd;alarm;melding;klok;wereld;stopwatch;"
 
 #~ msgid "Stopwatch"
 #~ msgstr "Stopwatch"
