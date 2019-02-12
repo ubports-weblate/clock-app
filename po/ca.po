@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ubuntu-clock-app\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-08-26 14:04+0000\n"
-"PO-Revision-Date: 2018-11-05 20:33+0000\n"
+"PO-Revision-Date: 2019-02-17 00:00+0000\n"
 "Last-Translator: Joan CiberSheep <cibersheep@gmail.com>\n"
 "Language-Team: Catalan <https://translate.ubports.com/projects/ubports/"
 "clock-app/ca/>\n"
@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../app/MainPage.qml:157 ../app/alarm/AlarmSettingsPage.qml:31
 msgid "Settings"
-msgstr "Configuració"
+msgstr "Paràmetres"
 
 #: ../app/MainPage.qml:166
 msgid "About"
